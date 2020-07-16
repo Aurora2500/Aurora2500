@@ -1,5 +1,5 @@
 ## HIIIIIIIIIIIIIIIIIIIIII
-I work in:👋
+I work in:
 - Haskell
 - Python
 - C# (stopped since moved to Linux)
