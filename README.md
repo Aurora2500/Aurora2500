@@ -1,4 +1,13 @@
-### Hi there 👋
+## HIIIIIIIIIIIIIIIIIIIIII
+I work in:👋
+- Haskell
+- Python
+- C# (stopped since moved to Linux)
+
+### Linux gang
+I use arch linux, btw
+
+#### Pronouns: She/Her
 
 <!--
 **Aurora2500/Aurora2500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
