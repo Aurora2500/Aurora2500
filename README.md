@@ -2,7 +2,8 @@
 I work in:
 - Haskell
 - Python
-- C# (stopped since moved to Linux)
+- Rust
+- Javascript/Typescript
 
 ### Linux gang
 I use arch linux, btw
