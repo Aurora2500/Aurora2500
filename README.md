@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aurora2500&label=Profile%20views&color=0e75b6&style=flat" alt="aurora2500" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aurorazuoris" target="blank"><img src="https://img.shields.io/twitter/follow/aurorazuoris?logo=twitter&style=for-the-badge" alt="aurorazuoris" /></a> </p>
-
 - 📫 How to reach me **programming.aurora@gmail.com**
 
 <h3 align="left">Some of my projects:</h3>
